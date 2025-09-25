@@ -1,0 +1,11 @@
+From: claire@example.com
+To: support@acme.test
+Subject: Question sur la facture #2025-09
+Date: Fri, 12 Sep 2025 10:30:00 +0200
+
+Bonjour,
+
+Pouvez-vous m'expliquer la ligne "Frais de traitement" sur ma facture #2025-09 ?
+
+Merci,
+Claire
