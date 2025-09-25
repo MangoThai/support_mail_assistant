@@ -1,0 +1,16 @@
+From: "Jean Client" <client@example.com>
+To: support@acme.test
+Subject: [INCIDENT] Problème d'accès urgent
+Date: Wed, 10 Sep 2025 09:12:34 +0200
+Message-ID: <abc123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Bonjour,
+
+Je n'arrive plus à me connecter à mon compte depuis ce matin (erreur 502).
+Pouvez-vous m'aider rapidement ?
+
+Merci,
+Jean
